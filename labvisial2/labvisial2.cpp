@@ -10,9 +10,7 @@
 using namespace std;
 
 int main()
-{	double a; // вхідний параметр
-	double z1; // результат обчислення 1-го виразу
-	double z2; // результат обчислення 2-го виразу
+{	double a, z1, z2; // вхідний параметр
 
 	cout << "a = "; cin >> a;
 
